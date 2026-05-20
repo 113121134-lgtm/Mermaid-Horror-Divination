@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>深海之瞳：人魚占卜</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="overlay"></div>
+
+    <div class="container">
+        <header>
+            <h1 class="glitch" data-text="人魚的低語">人魚的低語</h1>
+            <div class="intro-text">
+                <p>人類總以為大海是溫暖的搖籃，卻忘了光線照不到的地方，盡是冰冷的惡意。</p>
+                <p class="warning">警告：一旦潛入，靈魂概不退還。</p>
+            </div>
+        </header>
+
+        <main>
+            <div class="oracle-box">
+                <div id="result-text">水面下...有東西在看著你。</div>
+            </div>
+            <button id="divine-btn">獻祭一段記憶</button>
+        </main>
+
+        <footer>
+            <p>© 2026 深淵禁區 - 你的呼吸是她的收藏品</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
