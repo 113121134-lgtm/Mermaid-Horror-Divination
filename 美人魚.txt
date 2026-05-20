@@ -1,0 +1,31 @@
+# 🧜‍♀️ 深海之瞳：人魚恐怖占卜 (The Mermaid's Whispers)
+
+![License](https://img.shields.io/badge/License-MIT-red.svg)
+![Theme](https://img.shields.io/badge/Theme-Horror%20%7C%20Occult-darkblue)
+
+這是一個基於 **GitHub Pages** 建立的心理恐怖風格占卜網頁。結合了深海恐懼（Thalassophobia）與克蘇魯式的神祕主義氛圍。
+
+## 🌙 專案簡介
+使用者將進入一個充滿壓抑感的深海介面，透過「獻祭記憶」來獲取來自深淵人魚的恐怖預言。本專案旨在展示如何利用簡單的 CSS 動畫與 JavaScript 營造沉浸式的恐怖體驗。
+
+## 🕯️ 視覺特色
+- **故障藝術 (Glitch Art)**：標題會不定期產生視覺破碎效果。
+- **深海配色**：採用 `#000505` (深淵黑) 與 `#00ffea` (幽靈青) 的強烈對比。
+- **互動驚嚇**：占卜時隨機觸發頁面抖動與低語文案，挑戰使用者的心理防線。
+
+## 🛠️ 技術架構
+- **Frontend**: HTML5, CSS3 (Flexbox, Keyframe Animations)
+- **Logic**: Vanilla JavaScript
+- **Hosting**: GitHub Pages
+
+## 🚀 快速上手
+1. Fork 本專案。
+2. 進入 `Settings` -> `Pages`。
+3. 選擇 `main` 分支並儲存。
+4. 幾分鐘後即可透過你的 GitHub 網址訪問這份恐懼。
+
+## ⚠️ 免責聲明
+本網頁僅供娛樂與視覺設計交流之用。所有占卜結果均為隨機生成的恐怖文案，請勿過度解讀。若在占卜後感覺身後有水漬，本專案概不負責。
+
+## 🕸️ 預覽
+[這裡放你的 GitHub Pages 連結]
